@@ -5,11 +5,11 @@ An educational game built in MIPS Assembly. It quizzes the user on converting fr
 
 Features
 
--10 levels that keep getting harder testing conversions between binary and decimal
--A modular MIPS Assembly structure where files each focus on a seperate task like display, logic, question generator, answer validation, etc
--Input validation for answers, allowing users to repeatedly try again if answer is wrong
--Randomized question generator
--Clean terminal based board using Mars Syscall functions
+- 10 levels that keep getting harder testing conversions between binary and decimal
+- A modular MIPS Assembly structure where files each focus on a seperate task like display, logic, question generator, answer validation, etc
+- Input validation for answers, allowing users to repeatedly try again if answer is wrong
+- Randomized question generator
+- Clean terminal based board using Mars Syscall functions
 
 How it Works
 
@@ -22,8 +22,8 @@ File Structure
 
 Technologies
 
--MIPS Assembly Language
--MARS Simulator (MIPS Assembler and Runtime)
+- MIPS Assembly Language
+- MARS Simulator (MIPS Assembler and Runtime)
 
 Concepts Used
 
