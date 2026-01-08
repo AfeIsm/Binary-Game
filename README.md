@@ -20,6 +20,18 @@ The game generates a number in either binary or decimal, prompting the user to c
 
 File Structure
 
+BinaryGame/
+│── README.md
+│── Syscalls.asm
+│── main.asm
+│── gameMain.asm
+│── drawBoard.asm
+│── generateProblem.asm
+│── getUserInput.asm
+│── validateAnswer.asm
+│── convertBinaryToDecimal.asm
+│── convertDecimalToBinary.asm
+
 Technologies
 
 - MIPS Assembly Language
