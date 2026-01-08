@@ -22,14 +22,23 @@ File Structure
 
 BinaryGame/
 │── README.md
+
 │── Syscalls.asm
+
 │── main.asm
+
 │── gameMain.asm
+
 │── drawBoard.asm
+
 │── generateProblem.asm
+
 │── getUserInput.asm
+
 │── validateAnswer.asm
+
 │── convertBinaryToDecimal.asm
+
 │── convertDecimalToBinary.asm
 
 Technologies
