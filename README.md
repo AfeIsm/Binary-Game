@@ -21,6 +21,7 @@ The game generates a number in either binary or decimal, prompting the user to c
 File Structure
 
 BinaryGame/
+
 │── README.md
 
 │── Syscalls.asm
